@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bgreen-template/static/css/main.0a328c15.css",
+    "main.js": "/bgreen-template/static/js/main.0360c748.js",
+    "index.html": "/bgreen-template/index.html",
+    "main.0a328c15.css.map": "/bgreen-template/static/css/main.0a328c15.css.map",
+    "main.0360c748.js.map": "/bgreen-template/static/js/main.0360c748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a328c15.css",
+    "static/js/main.0360c748.js"
+  ]
+}
